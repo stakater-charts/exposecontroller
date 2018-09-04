@@ -5,7 +5,7 @@ version: 1.0.17
 keywords:
   - exposecontroller
   - kubernetes
-home: https://github.com/stakater/chart-exposecontroller
+home: https://github.com/stakater-charts/exposecontroller
 maintainers:
 - name: Stakater
   email: stakater@aurorasolutions.io
