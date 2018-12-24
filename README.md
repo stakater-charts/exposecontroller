@@ -11,3 +11,9 @@ Install `exposecontroller` chart
 ```bash
 helm install --name exposecontroller chartmuseum/exposecontroller --namespace <namespace-name>
 ```
+
+you can also install from stakater public charts
+
+```bash
+helm install --name exposecontroller stakater/exposecontroller --namespace <namespace-name>
+```
